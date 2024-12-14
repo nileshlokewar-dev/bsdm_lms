@@ -309,7 +309,7 @@
                                </div> 
                             </div>
                             <div class="mt-3 text-center">
-                                <a href="login.html" type="button" class="btn btn-secondary" value="">Done</a>
+                                <a href="login" type="button" class="btn btn-secondary" value="">Done</a>
                             </div>
                         </div>
 

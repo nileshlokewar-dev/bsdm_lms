@@ -34,7 +34,7 @@
         </div>
 
         <div class="mt-3 pt-5 text-center">
-          <a href="learning-video.html" type="button" class="btn btn-secondary select-type-btn" value="">Start</a>
+          <a href="chapter_one" type="button" class="btn btn-secondary select-type-btn" value="">Start</a>
       </div>
       </div>
 

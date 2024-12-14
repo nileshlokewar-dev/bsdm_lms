@@ -29,7 +29,7 @@
                                         <a href="" class="Forgot-btn" id="forgotPassword">Forgot Password?</a>
                                     </div>
                                     <div>
-                                        <a href="select-course-type.html" type="button" class="btn btn-secondary w-100 mb-4" value="Login">Login</a>
+                                        <a href="course_selection" type="button" class="btn btn-secondary w-100 mb-4" value="Login">Login</a>
                                     </div>
                                 </div>
                             </div>
