@@ -20,7 +20,11 @@
   <?php if($header != NULL){ ?>
     <?php $this->load->view('/common/'. $header); ?>
   <?php } ?>
-    <!-- <?php //$this->load->view('/common/sidepannel'); ?> -->
+    <?php
+        if(isset($sidepanel)){
+            $this->load->view('/common/'. $sidepanel); 
+        }
+    ?>
     <?php $this->load->view('/'. $file_name); ?>
   <?php if($footer != NULL){ ?>
     <?php $this->load->view('/common/footer'); ?>

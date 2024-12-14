@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => '',
-	'password' => '',
-	'database' => '',
+	'hostname' => 'bsdm.cl4u4mc60d4g.ap-south-1.rds.amazonaws.com',
+	'username' => 'admin',
+	'password' => 'Bsdm54321',
+	'database' => 'bsdm',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
